@@ -9,11 +9,15 @@
 # next.js
 /.next/
 /out/
+<<<<<<< HEAD
 /build
 .next
 
 # production
+=======
+>>>>>>> 6c88ef0 (Add .gitignore file)
 /build
+.next
 
 # misc
 .DS_Store
