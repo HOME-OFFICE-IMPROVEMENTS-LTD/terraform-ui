@@ -1,4 +1,3 @@
-cat > src/app/layout.tsx << 'EOL'
 import type { Metadata } from 'next';
 import { Inter } from 'next/font/google';
 import './globals.css';
